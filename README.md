@@ -1,0 +1,1 @@
+# Vibration-Reduction-in-Driver-Seat-using-Negative-Stiffness-Mechanism
